@@ -1,0 +1,21 @@
+body {
+    background-color: grey !important;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(100%);
+}
+
+h1 {
+    color: #333;
+    /* color: #333;  Cambiar el color a negro oscuro */
+    font-size: 40px;
+    text-align: left;
+    margin-left: 33px;
+    font-family: Franklin Gothic Heavy, Arial, sans-serif;
+}
+
